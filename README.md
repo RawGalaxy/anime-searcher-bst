@@ -19,3 +19,5 @@ Laporan penuhnya terdapat pada dokumen 'https://docs.google.com/document/d/1NfFx
 * Metode pencarian DFS
 * Metode Pencarian IDS
 * Pembuatan dan pencarian data untuk dataset yang digunakan
+
+![1716563592658](https://github.com/RawGalaxy/anime-searcher-bst/assets/144690027/ea779671-a526-4a39-b889-36fe6a92d80e)
