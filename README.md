@@ -10,4 +10,4 @@
 
 </div>
 
-Dalam repositori github merupakan laporan file dan lainnya dari projek yang kami kerjakan. Kelompok kami membuat sebuah dataset yang berisi list judul-judul dari anime yang nantinya akan dicari judul yang diindinkan menggunakan metode BGS dan DFS. 
+Dalam repositori github merupakan laporan file dan lainnya dari projek yang kami kerjakan. Kelompok kami membuat sebuah dataset yang berisi list judul-judul dari anime yang nantinya akan dicari judul yang diindinkan menggunakan metode BFS dan DFS. 
