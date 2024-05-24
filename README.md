@@ -6,7 +6,7 @@
 | 5025221135 | Mu'aafii Putra Ramadhan|
 | 5025221267 | Ariq Javier Ramadhani R. |
 
-#_(Quiz 2 Group Project)_
+# (Quiz 2 Group Project)
 
 </div>
 
