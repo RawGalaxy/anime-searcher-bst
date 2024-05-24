@@ -17,4 +17,4 @@ Laporan penuhnya terdapat pada dokumen 'https://docs.google.com/document/d/1NfFx
 ## Key Feature
 * Metode pencarian BFS
 * Metode pencarian DFS
-* ukuran kontol Dio
+* Pembuatan dan pencarian data untuk dataset yang digunakan
