@@ -4,7 +4,7 @@
 | :--------: | :------------: |
 | 5025221004 | Nashwan Rasyid |
 | 5025221135 | Mu'aaafii Putra|
-| 5025221267 | Ariq Javier R. |
+| 5025221267 | Ariq Javier Ramadhani R. |
 
 #_(Quiz 2 Group Project)_
 
