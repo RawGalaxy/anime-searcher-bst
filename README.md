@@ -2,7 +2,7 @@
 
 |    NRP     |      Name      |
 | :--------: | :------------: |
-| 5025221004 | Nashwan Rasyid |
+| 5025221004 | Nashwan Rasyid Muhammad |
 | 5025221135 | Mu'aaafii Putra|
 | 5025221267 | Ariq Javier Ramadhani R. |
 
